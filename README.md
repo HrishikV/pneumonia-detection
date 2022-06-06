@@ -7,7 +7,7 @@ This project aims to detect Pneumonia based on the lung images taken from the pu
 First, install github repository to your local machine.
 
 ```bash
-git clone https://github.com/turaneminli/pneumonia-detection.git
+git clone https://github.com/HrishikV/pneumonia-detection
 ```
 
 Then, to run without docker create virtual environment for package control.
